@@ -4,6 +4,8 @@ set tabstop=4
 set cindent
 set autoindent
 set shiftwidth=4
+set list
+set listchars=tab:>-
 set ruler
 set wildmode=longest,list
 let fortran_free_source=1
